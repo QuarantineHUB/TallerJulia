@@ -10,5 +10,5 @@ Y cuando entren a al REPL de Julia. Tecleen
 
 ```Julia
 > using Pkg
->Pkd.add("IJulia")
+> Pkd.add("IJulia")
 ```
