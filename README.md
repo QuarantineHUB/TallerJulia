@@ -1,6 +1,6 @@
 Repositorio para dar la ponencia de introducción a Julia. El notebook a utilizar es encuentra en la carpeta `/notebooks`.
 
-Necesitan intalar  `Julia` +v1.0 y tener instalado `Jupyter Notebook`
+Necesitan intalar `Julia` +v1.0 (https://julialang.org/downloads/) y tener instalado `Jupyter Notebook`
 
 Para agregar Julia a Jupyter. Basta ejecutar en terminal 
 
