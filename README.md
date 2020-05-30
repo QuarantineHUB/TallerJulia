@@ -1,4 +1,4 @@
-Repositorio para dar la ponencia de introducción a Julia
+Repositorio para dar la ponencia de introducción a Julia. El notebook a utilizar es encuentra en la carpeta `/notebooks`.
 
 Necesitan intalar  `Julia` +v1.0 y tener instalado `Jupyter Notebook`
 
