@@ -12,3 +12,4 @@ Y cuando entren a al REPL de Julia. Tecleen
 > using Pkg
 > Pkd.add("IJulia")
 ```
+Cuando habran de nuevo Jupyter notebook y cargen el notebook de este taller cargará el nucleo de Julia.
